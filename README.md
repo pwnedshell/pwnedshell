@@ -15,4 +15,4 @@
   <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555">
 </a>
 
-<a href="#"><img height="110" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pwnedshell&repo=Bugs-feed&cache_seconds=86400&theme=dark&icon_color=#55B329" /></a>
+<a href="https://github.com/PwnedShell/Bugs-feed"><img height="110" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pwnedshell&repo=Bugs-feed&cache_seconds=86400&theme=dark&icon_color=#55B329" /></a>
